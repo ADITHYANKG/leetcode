@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2481-strictly-palindromic-number](https://github.com/ADITHYANKG/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/ADITHYANKG/leetcode/tree/master/2491-smallest-even-multiple) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ADITHYANKG/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Number Theory
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ADITHYANKG/leetcode/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/ADITHYANKG/leetcode/tree/master/2481-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/ADITHYANKG/leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
