@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1449-print-words-vertically](https://github.com/ADITHYANKG/leetcode/tree/master/1449-print-words-vertically) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ADITHYANKG/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ADITHYANKG/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2232-adding-spaces-to-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [3194-find-words-containing-character](https://github.com/ADITHYANKG/leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/3379-score-of-a-string) |
 | [3540-hash-divided-string](https://github.com/ADITHYANKG/leetcode/tree/master/3540-hash-divided-string) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1449-print-words-vertically](https://github.com/ADITHYANKG/leetcode/tree/master/1449-print-words-vertically) |
 | [2058-concatenation-of-array](https://github.com/ADITHYANKG/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ADITHYANKG/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2232-adding-spaces-to-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [3540-hash-divided-string](https://github.com/ADITHYANKG/leetcode/tree/master/3540-hash-divided-string) |
 ## Array
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/ADITHYANKG/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2058-concatenation-of-array](https://github.com/ADITHYANKG/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ADITHYANKG/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2232-adding-spaces-to-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [3194-find-words-containing-character](https://github.com/ADITHYANKG/leetcode/tree/master/3194-find-words-containing-character) |
 ## Binary Search
 |  |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2481-strictly-palindromic-number](https://github.com/ADITHYANKG/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 |  |
