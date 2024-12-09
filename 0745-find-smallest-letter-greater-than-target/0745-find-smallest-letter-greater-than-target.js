@@ -4,6 +4,7 @@
  * @return {character}
  */
 var nextGreatestLetter = function(l, t) {
+    
     res=l[0]
     temp=res
     console.log(temp)
@@ -29,4 +30,6 @@ var nextGreatestLetter = function(l, t) {
 
      }
     return res
+
+    
 };
