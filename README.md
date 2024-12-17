@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ADITHYANKG/leetcode/tree/master/0066-plus-one) |
+| [1013-fibonacci-number](https://github.com/ADITHYANKG/leetcode/tree/master/1013-fibonacci-number) |
 | [2481-strictly-palindromic-number](https://github.com/ADITHYANKG/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/ADITHYANKG/leetcode/tree/master/2491-smallest-even-multiple) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ADITHYANKG/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -122,4 +123,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ADITHYANKG/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ADITHYANKG/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ADITHYANKG/leetcode/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ADITHYANKG/leetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ADITHYANKG/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ADITHYANKG/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
