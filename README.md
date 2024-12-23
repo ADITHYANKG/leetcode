@@ -144,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1013-fibonacci-number](https://github.com/ADITHYANKG/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ADITHYANKG/leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Database
+|  |
+| ------- |
+| [0627-swap-salary](https://github.com/ADITHYANKG/leetcode/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
