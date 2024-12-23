@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ADITHYANKG/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ADITHYANKG/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ADITHYANKG/leetcode/tree/master/0242-valid-anagram) |
+| [0520-detect-capital](https://github.com/ADITHYANKG/leetcode/tree/master/0520-detect-capital) |
 | [1260-day-of-the-year](https://github.com/ADITHYANKG/leetcode/tree/master/1260-day-of-the-year) |
 | [1449-print-words-vertically](https://github.com/ADITHYANKG/leetcode/tree/master/1449-print-words-vertically) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ADITHYANKG/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
