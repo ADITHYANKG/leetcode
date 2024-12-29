@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/ADITHYANKG/leetcode/tree/master/1260-day-of-the-year) |
 | [2481-strictly-palindromic-number](https://github.com/ADITHYANKG/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/ADITHYANKG/leetcode/tree/master/2491-smallest-even-multiple) |
+| [2752-sum-multiples](https://github.com/ADITHYANKG/leetcode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ADITHYANKG/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3568-find-the-key-of-the-numbers](https://github.com/ADITHYANKG/leetcode/tree/master/3568-find-the-key-of-the-numbers) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ADITHYANKG/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
