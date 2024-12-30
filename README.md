@@ -156,4 +156,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/ADITHYANKG/leetcode/tree/master/0175-combine-two-tables) |
 | [0627-swap-salary](https://github.com/ADITHYANKG/leetcode/tree/master/0627-swap-salary) |
+| [1908-recyclable-and-low-fat-products](https://github.com/ADITHYANKG/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
