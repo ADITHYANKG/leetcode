@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ADITHYANKG/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ADITHYANKG/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/ADITHYANKG/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3194-find-words-containing-character](https://github.com/ADITHYANKG/leetcode/tree/master/3194-find-words-containing-character) |
 ## Binary Search
 |  |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ADITHYANKG/leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/ADITHYANKG/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ADITHYANKG/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/ADITHYANKG/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
