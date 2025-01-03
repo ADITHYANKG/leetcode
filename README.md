@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/ADITHYANKG/leetcode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ADITHYANKG/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3568-find-the-key-of-the-numbers](https://github.com/ADITHYANKG/leetcode/tree/master/3568-find-the-key-of-the-numbers) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/ADITHYANKG/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ADITHYANKG/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Number Theory
 |  |
@@ -174,4 +175,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ADITHYANKG/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/ADITHYANKG/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
