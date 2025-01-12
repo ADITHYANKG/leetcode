@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/ADITHYANKG/leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/3379-score-of-a-string) |
 | [3540-hash-divided-string](https://github.com/ADITHYANKG/leetcode/tree/master/3540-hash-divided-string) |
+| [3567-convert-date-to-binary](https://github.com/ADITHYANKG/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/ADITHYANKG/leetcode/tree/master/3636-check-balanced-string) |
 ## Simulation
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/ADITHYANKG/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2752-sum-multiples](https://github.com/ADITHYANKG/leetcode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ADITHYANKG/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3567-convert-date-to-binary](https://github.com/ADITHYANKG/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3568-find-the-key-of-the-numbers](https://github.com/ADITHYANKG/leetcode/tree/master/3568-find-the-key-of-the-numbers) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/ADITHYANKG/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ADITHYANKG/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
