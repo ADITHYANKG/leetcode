@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/ADITHYANKG/leetcode/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/ADITHYANKG/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1449-print-words-vertically](https://github.com/ADITHYANKG/leetcode/tree/master/1449-print-words-vertically) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/ADITHYANKG/leetcode/tree/master/1580-shuffle-the-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ADITHYANKG/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2058-concatenation-of-array](https://github.com/ADITHYANKG/leetcode/tree/master/2058-concatenation-of-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ADITHYANKG/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ADITHYANKG/leetcode/tree/master/0242-valid-anagram) |
 | [1137-height-checker](https://github.com/ADITHYANKG/leetcode/tree/master/1137-height-checker) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ADITHYANKG/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/ADITHYANKG/leetcode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ADITHYANKG/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/ADITHYANKG/leetcode/tree/master/3226-minimum-number-game) |
 ## Counting Sort
 |  |
