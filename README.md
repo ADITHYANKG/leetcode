@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/ADITHYANKG/leetcode/tree/master/0520-detect-capital) |
 | [1260-day-of-the-year](https://github.com/ADITHYANKG/leetcode/tree/master/1260-day-of-the-year) |
 | [1449-print-words-vertically](https://github.com/ADITHYANKG/leetcode/tree/master/1449-print-words-vertically) |
+| [1547-destination-city](https://github.com/ADITHYANKG/leetcode/tree/master/1547-destination-city) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ADITHYANKG/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ADITHYANKG/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/ADITHYANKG/leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ADITHYANKG/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1449-print-words-vertically](https://github.com/ADITHYANKG/leetcode/tree/master/1449-print-words-vertically) |
+| [1547-destination-city](https://github.com/ADITHYANKG/leetcode/tree/master/1547-destination-city) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/ADITHYANKG/leetcode/tree/master/1580-shuffle-the-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ADITHYANKG/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ADITHYANKG/leetcode/tree/master/0242-valid-anagram) |
 | [1217-relative-sort-array](https://github.com/ADITHYANKG/leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ADITHYANKG/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1547-destination-city](https://github.com/ADITHYANKG/leetcode/tree/master/1547-destination-city) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ADITHYANKG/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2547-odd-string-difference](https://github.com/ADITHYANKG/leetcode/tree/master/2547-odd-string-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/ADITHYANKG/leetcode/tree/master/3227-find-missing-and-repeated-values) |
