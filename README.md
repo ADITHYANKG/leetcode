@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ADITHYANKG/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ADITHYANKG/leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/ADITHYANKG/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/ADITHYANKG/leetcode/tree/master/0520-detect-capital) |
 | [1260-day-of-the-year](https://github.com/ADITHYANKG/leetcode/tree/master/1260-day-of-the-year) |
 | [1449-print-words-vertically](https://github.com/ADITHYANKG/leetcode/tree/master/1449-print-words-vertically) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ADITHYANKG/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/ADITHYANKG/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ADITHYANKG/leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/ADITHYANKG/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1217-relative-sort-array](https://github.com/ADITHYANKG/leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ADITHYANKG/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1547-destination-city](https://github.com/ADITHYANKG/leetcode/tree/master/1547-destination-city) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ADITHYANKG/leetcode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/ADITHYANKG/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ADITHYANKG/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Trie
 |  |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ADITHYANKG/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ADITHYANKG/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ADITHYANKG/leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/ADITHYANKG/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1137-height-checker](https://github.com/ADITHYANKG/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ADITHYANKG/leetcode/tree/master/1217-relative-sort-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ADITHYANKG/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/ADITHYANKG/leetcode/tree/master/3226-minimum-number-game) |
 ## Counting Sort
@@ -228,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/ADITHYANKG/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ADITHYANKG/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
