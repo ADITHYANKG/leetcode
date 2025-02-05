@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2547-odd-string-difference](https://github.com/ADITHYANKG/leetcode/tree/master/2547-odd-string-difference) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/ADITHYANKG/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ADITHYANKG/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2881-split-strings-by-separator](https://github.com/ADITHYANKG/leetcode/tree/master/2881-split-strings-by-separator) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ADITHYANKG/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -268,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/ADITHYANKG/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ADITHYANKG/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/ADITHYANKG/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
+## Greedy
+|  |
+| ------- |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/ADITHYANKG/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 <!---LeetCode Topics End-->
