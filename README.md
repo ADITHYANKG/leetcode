@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ADITHYANKG/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2836-neither-minimum-nor-maximum](https://github.com/ADITHYANKG/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ADITHYANKG/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2881-split-strings-by-separator](https://github.com/ADITHYANKG/leetcode/tree/master/2881-split-strings-by-separator) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ADITHYANKG/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ADITHYANKG/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1970-sorting-the-sentence](https://github.com/ADITHYANKG/leetcode/tree/master/1970-sorting-the-sentence) |
+| [2836-neither-minimum-nor-maximum](https://github.com/ADITHYANKG/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ADITHYANKG/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/ADITHYANKG/leetcode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ADITHYANKG/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
