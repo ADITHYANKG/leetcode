@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/ADITHYANKG/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ADITHYANKG/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2886-faulty-keyboard](https://github.com/ADITHYANKG/leetcode/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/ADITHYANKG/leetcode/tree/master/3226-minimum-number-game) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ADITHYANKG/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ADITHYANKG/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2181-smallest-index-with-equal-value](https://github.com/ADITHYANKG/leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2232-adding-spaces-to-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2547-odd-string-difference](https://github.com/ADITHYANKG/leetcode/tree/master/2547-odd-string-difference) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ADITHYANKG/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ADITHYANKG/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ADITHYANKG/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/ADITHYANKG/leetcode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/ADITHYANKG/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/ADITHYANKG/leetcode/tree/master/2491-smallest-even-multiple) |
@@ -288,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ADITHYANKG/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
