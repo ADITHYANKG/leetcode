@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ADITHYANKG/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ADITHYANKG/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ADITHYANKG/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3723-sum-of-good-numbers](https://github.com/ADITHYANKG/leetcode/tree/master/3723-sum-of-good-numbers) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/ADITHYANKG/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ADITHYANKG/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
