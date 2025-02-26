@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ADITHYANKG/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/ADITHYANKG/leetcode/tree/master/2752-sum-multiples) |
+| [2998-count-symmetric-integers](https://github.com/ADITHYANKG/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ADITHYANKG/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/ADITHYANKG/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3371-harshad-number](https://github.com/ADITHYANKG/leetcode/tree/master/3371-harshad-number) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/ADITHYANKG/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ADITHYANKG/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2998-count-symmetric-integers](https://github.com/ADITHYANKG/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/ADITHYANKG/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Heap (Priority Queue)
 |  |
