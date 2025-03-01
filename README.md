@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1933-number-of-different-integers-in-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1944-truncate-sentence](https://github.com/ADITHYANKG/leetcode/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/ADITHYANKG/leetcode/tree/master/1954-replace-all-digits-with-characters) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/ADITHYANKG/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/ADITHYANKG/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ADITHYANKG/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/ADITHYANKG/leetcode/tree/master/1547-destination-city) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ADITHYANKG/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/ADITHYANKG/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ADITHYANKG/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2547-odd-string-difference](https://github.com/ADITHYANKG/leetcode/tree/master/2547-odd-string-difference) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ADITHYANKG/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
