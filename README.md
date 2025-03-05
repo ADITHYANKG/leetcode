@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/ADITHYANKG/leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/ADITHYANKG/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ADITHYANKG/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0841-shortest-distance-to-a-character](https://github.com/ADITHYANKG/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/ADITHYANKG/leetcode/tree/master/0953-reverse-only-letters) |
 | [1260-day-of-the-year](https://github.com/ADITHYANKG/leetcode/tree/master/1260-day-of-the-year) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/ADITHYANKG/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ADITHYANKG/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ADITHYANKG/leetcode/tree/master/0169-majority-element) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ADITHYANKG/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0841-shortest-distance-to-a-character](https://github.com/ADITHYANKG/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1019-squares-of-a-sorted-array](https://github.com/ADITHYANKG/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/ADITHYANKG/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ADITHYANKG/leetcode/tree/master/1217-relative-sort-array) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/ADITHYANKG/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ADITHYANKG/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0841-shortest-distance-to-a-character](https://github.com/ADITHYANKG/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/ADITHYANKG/leetcode/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/ADITHYANKG/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ADITHYANKG/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
