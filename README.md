@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ADITHYANKG/leetcode/tree/master/0191-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ADITHYANKG/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2659-number-of-even-and-odd-bits](https://github.com/ADITHYANKG/leetcode/tree/master/2659-number-of-even-and-odd-bits) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ADITHYANKG/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Counting
 |  |
