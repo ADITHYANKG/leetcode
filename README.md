@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3540-hash-divided-string](https://github.com/ADITHYANKG/leetcode/tree/master/3540-hash-divided-string) |
 | [3567-convert-date-to-binary](https://github.com/ADITHYANKG/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/ADITHYANKG/leetcode/tree/master/3636-check-balanced-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ADITHYANKG/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/ADITHYANKG/leetcode/tree/master/3226-minimum-number-game) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ADITHYANKG/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3540-hash-divided-string](https://github.com/ADITHYANKG/leetcode/tree/master/3540-hash-divided-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ADITHYANKG/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -161,12 +163,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3626-smallest-divisible-digit-product-i](https://github.com/ADITHYANKG/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ADITHYANKG/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ADITHYANKG/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ADITHYANKG/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ADITHYANKG/leetcode/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ADITHYANKG/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/ADITHYANKG/leetcode/tree/master/2491-smallest-even-multiple) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ADITHYANKG/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -339,4 +343,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ADITHYANKG/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
