@@ -1,18 +1,13 @@
-class Solution(object):
-    def countConsistentStrings(self, allowed, words):
-        res=0
-        
-        for i in range(0,len(words)):
+class Solution:
+    def countConsistentStrings(self, allowed: str, words: List[str]) -> int:
+        f=0
+        allowed=list(allowed)
+        for i in range(len(words)):
             c=0
-            for j in range(0,len(words[i])):
-                for k in range(0,len(allowed)):
-                    if(words[i][j]==allowed[k]):
-                                c+=1
-            if c>=len(words[i]):
-                res+=1
-        """
-        :type allowed: str
-        :type words: List[str]
-        :rtype: int
-        """
-        return res
+            for j in range(len(words[i])):
+                if words[i][j] in allowed:
+                    c+=1
+            if c==len(words[i]):  
+                f+=1 
+
+        return f            
