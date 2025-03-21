@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/ADITHYANKG/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/ADITHYANKG/leetcode/tree/master/1260-day-of-the-year) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ADITHYANKG/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1448-maximum-69-number](https://github.com/ADITHYANKG/leetcode/tree/master/1448-maximum-69-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ADITHYANKG/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ADITHYANKG/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/ADITHYANKG/leetcode/tree/master/1448-maximum-69-number) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ADITHYANKG/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Combinatorics
 |  |
