@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/ADITHYANKG/leetcode/tree/master/2694-find-the-maximum-divisibility-score) |
+| [2714-left-and-right-sum-differences](https://github.com/ADITHYANKG/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ADITHYANKG/leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/ADITHYANKG/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ADITHYANKG/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1242-matrix-block-sum](https://github.com/ADITHYANKG/leetcode/tree/master/1242-matrix-block-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/ADITHYANKG/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ADITHYANKG/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2714-left-and-right-sum-differences](https://github.com/ADITHYANKG/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ADITHYANKG/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/ADITHYANKG/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Greedy
