@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/ADITHYANKG/leetcode/tree/master/1448-maximum-69-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ADITHYANKG/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ADITHYANKG/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2238-a-number-after-a-double-reversal](https://github.com/ADITHYANKG/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/ADITHYANKG/leetcode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/ADITHYANKG/leetcode/tree/master/2481-strictly-palindromic-number) |
