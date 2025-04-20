@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-convert-date-to-binary](https://github.com/ADITHYANKG/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/ADITHYANKG/leetcode/tree/master/3636-check-balanced-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ADITHYANKG/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ADITHYANKG/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3540-hash-divided-string](https://github.com/ADITHYANKG/leetcode/tree/master/3540-hash-divided-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ADITHYANKG/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
