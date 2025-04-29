@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ADITHYANKG/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/ADITHYANKG/leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2502-sort-the-people](https://github.com/ADITHYANKG/leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ADITHYANKG/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2547-odd-string-difference](https://github.com/ADITHYANKG/leetcode/tree/master/2547-odd-string-difference) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1242-matrix-block-sum](https://github.com/ADITHYANKG/leetcode/tree/master/1242-matrix-block-sum) |
 | [1677-matrix-diagonal-sum](https://github.com/ADITHYANKG/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/ADITHYANKG/leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/ADITHYANKG/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Bucket Sort
 |  |
