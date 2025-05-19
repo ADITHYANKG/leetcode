@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/ADITHYANKG/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ADITHYANKG/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ADITHYANKG/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ADITHYANKG/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ADITHYANKG/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ADITHYANKG/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ADITHYANKG/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ADITHYANKG/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/ADITHYANKG/leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ADITHYANKG/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ADITHYANKG/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/ADITHYANKG/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ADITHYANKG/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2406-decode-the-message](https://github.com/ADITHYANKG/leetcode/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/ADITHYANKG/leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ADITHYANKG/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ADITHYANKG/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ADITHYANKG/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/ADITHYANKG/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3778-transform-array-by-parity](https://github.com/ADITHYANKG/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ADITHYANKG/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
