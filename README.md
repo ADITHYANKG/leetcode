@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-sum-of-variable-length-subarrays](https://github.com/ADITHYANKG/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ADITHYANKG/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/ADITHYANKG/leetcode/tree/master/3778-transform-array-by-parity) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/ADITHYANKG/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ADITHYANKG/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ADITHYANKG/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/ADITHYANKG/leetcode/tree/master/3830-find-closest-person) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/ADITHYANKG/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Number Theory
 |  |
 | ------- |
