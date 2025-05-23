@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/ADITHYANKG/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1449-print-words-vertically](https://github.com/ADITHYANKG/leetcode/tree/master/1449-print-words-vertically) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ADITHYANKG/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/ADITHYANKG/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ADITHYANKG/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/ADITHYANKG/leetcode/tree/master/1547-destination-city) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1242-matrix-block-sum](https://github.com/ADITHYANKG/leetcode/tree/master/1242-matrix-block-sum) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/ADITHYANKG/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ADITHYANKG/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/ADITHYANKG/leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/ADITHYANKG/leetcode/tree/master/3227-find-missing-and-repeated-values) |
