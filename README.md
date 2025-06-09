@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/ADITHYANKG/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/ADITHYANKG/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1899-count-items-matching-a-rule](https://github.com/ADITHYANKG/leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ADITHYANKG/leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1944-truncate-sentence](https://github.com/ADITHYANKG/leetcode/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/ADITHYANKG/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ADITHYANKG/leetcode/tree/master/2058-concatenation-of-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ADITHYANKG/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/ADITHYANKG/leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ADITHYANKG/leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ADITHYANKG/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/ADITHYANKG/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -435,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/ADITHYANKG/leetcode/tree/master/2107-find-unique-binary-string) |
+## Geometry
+|  |
+| ------- |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ADITHYANKG/leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->
