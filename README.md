@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ADITHYANKG/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2406-decode-the-message](https://github.com/ADITHYANKG/leetcode/tree/master/2406-decode-the-message) |
+| [2470-removing-stars-from-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/ADITHYANKG/leetcode/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/ADITHYANKG/leetcode/tree/master/2547-odd-string-difference) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ADITHYANKG/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2470-removing-stars-from-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2639-separate-the-digits-in-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ADITHYANKG/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/ADITHYANKG/leetcode/tree/master/2886-faulty-keyboard) |
@@ -441,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ADITHYANKG/leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
