@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ADITHYANKG/leetcode/tree/master/0258-add-digits) |
 | [1449-print-words-vertically](https://github.com/ADITHYANKG/leetcode/tree/master/1449-print-words-vertically) |
 | [1806-count-of-matches-in-tournament](https://github.com/ADITHYANKG/leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ADITHYANKG/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/ADITHYANKG/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ADITHYANKG/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ADITHYANKG/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/ADITHYANKG/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ADITHYANKG/leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1944-truncate-sentence](https://github.com/ADITHYANKG/leetcode/tree/master/1944-truncate-sentence) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ADITHYANKG/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/ADITHYANKG/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ADITHYANKG/leetcode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ADITHYANKG/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ADITHYANKG/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/ADITHYANKG/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ADITHYANKG/leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ADITHYANKG/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ADITHYANKG/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/ADITHYANKG/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ADITHYANKG/leetcode/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ADITHYANKG/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -447,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ADITHYANKG/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
