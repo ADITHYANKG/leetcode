@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/ADITHYANKG/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ADITHYANKG/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Backtracking
 |  |
