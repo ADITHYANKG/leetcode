@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1242-matrix-block-sum](https://github.com/ADITHYANKG/leetcode/tree/master/1242-matrix-block-sum) |
 | [1310-watering-plants](https://github.com/ADITHYANKG/leetcode/tree/master/1310-watering-plants) |
 | [1319-unique-number-of-occurrences](https://github.com/ADITHYANKG/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/ADITHYANKG/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ADITHYANKG/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ADITHYANKG/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1449-print-words-vertically](https://github.com/ADITHYANKG/leetcode/tree/master/1449-print-words-vertically) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/ADITHYANKG/leetcode/tree/master/0782-jewels-and-stones) |
 | [1217-relative-sort-array](https://github.com/ADITHYANKG/leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ADITHYANKG/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/ADITHYANKG/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/ADITHYANKG/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ADITHYANKG/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ADITHYANKG/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ADITHYANKG/leetcode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/ADITHYANKG/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/ADITHYANKG/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ADITHYANKG/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/ADITHYANKG/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/ADITHYANKG/leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/ADITHYANKG/leetcode/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/ADITHYANKG/leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/ADITHYANKG/leetcode/tree/master/1217-relative-sort-array) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/ADITHYANKG/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ADITHYANKG/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ADITHYANKG/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
