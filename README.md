@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ADITHYANKG/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ADITHYANKG/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ADITHYANKG/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/ADITHYANKG/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ADITHYANKG/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/ADITHYANKG/leetcode/tree/master/1547-destination-city) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ADITHYANKG/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ADITHYANKG/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ADITHYANKG/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/ADITHYANKG/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ADITHYANKG/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ADITHYANKG/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -499,4 +501,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1072-next-greater-node-in-linked-list](https://github.com/ADITHYANKG/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ADITHYANKG/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Design
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/ADITHYANKG/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
