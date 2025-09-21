@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ADITHYANKG/leetcode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/ADITHYANKG/leetcode/tree/master/0682-baseball-game) |
 | [1310-watering-plants](https://github.com/ADITHYANKG/leetcode/tree/master/1310-watering-plants) |
 | [1449-print-words-vertically](https://github.com/ADITHYANKG/leetcode/tree/master/1449-print-words-vertically) |
 | [1806-count-of-matches-in-tournament](https://github.com/ADITHYANKG/leetcode/tree/master/1806-count-of-matches-in-tournament) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ADITHYANKG/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ADITHYANKG/leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/ADITHYANKG/leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/ADITHYANKG/leetcode/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ADITHYANKG/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0841-shortest-distance-to-a-character](https://github.com/ADITHYANKG/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1019-squares-of-a-sorted-array](https://github.com/ADITHYANKG/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ADITHYANKG/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ADITHYANKG/leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/ADITHYANKG/leetcode/tree/master/0682-baseball-game) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ADITHYANKG/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ADITHYANKG/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ADITHYANKG/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
