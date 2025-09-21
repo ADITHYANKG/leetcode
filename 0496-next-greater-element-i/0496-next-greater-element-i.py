@@ -5,15 +5,18 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        def great(x,k):
-            for i in range(k,len(nums2)):
-                if nums2[i]>x:
-                    return nums2[i]
-            return -1
-
-        res=[]
+        n=len(nums2)
+        result=[-1]*n
+        stack=[]
+        for i in range(n):
+            while stack and nums2[i]>nums2[stack[-1]]:
+                index=stack.pop()
+                result[index]=nums2[i]
+            stack.append(i)  
+        final=[]      
         for i in range(len(nums1)):
-            for j in range(len(nums2)):
+             for j in range(len(nums2)):
                 if nums1[i]==nums2[j]:
-                    res.append(great(nums2[j],j))
-        return res
+                    final.append(result[j])
+                    break
+        return final            
