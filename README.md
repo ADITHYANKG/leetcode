@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ADITHYANKG/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ADITHYANKG/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ADITHYANKG/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ADITHYANKG/leetcode/tree/master/0682-baseball-game) |
@@ -514,5 +515,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ADITHYANKG/leetcode/tree/master/0155-min-stack) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ADITHYANKG/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
