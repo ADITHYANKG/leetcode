@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ADITHYANKG/leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/ADITHYANKG/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ADITHYANKG/leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/ADITHYANKG/leetcode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ADITHYANKG/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0841-shortest-distance-to-a-character](https://github.com/ADITHYANKG/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1019-squares-of-a-sorted-array](https://github.com/ADITHYANKG/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ADITHYANKG/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ADITHYANKG/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ADITHYANKG/leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/ADITHYANKG/leetcode/tree/master/0739-daily-temperatures) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ADITHYANKG/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ADITHYANKG/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/ADITHYANKG/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ADITHYANKG/leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/ADITHYANKG/leetcode/tree/master/0739-daily-temperatures) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ADITHYANKG/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ADITHYANKG/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
