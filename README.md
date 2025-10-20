@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ADITHYANKG/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ADITHYANKG/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ADITHYANKG/leetcode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/ADITHYANKG/leetcode/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ADITHYANKG/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ADITHYANKG/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/ADITHYANKG/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ADITHYANKG/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ADITHYANKG/leetcode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/ADITHYANKG/leetcode/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ADITHYANKG/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ADITHYANKG/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
@@ -527,5 +529,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ADITHYANKG/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ADITHYANKG/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ADITHYANKG/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/ADITHYANKG/leetcode/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ADITHYANKG/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/ADITHYANKG/leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
