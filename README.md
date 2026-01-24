@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/ADITHYANKG/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/ADITHYANKG/leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/ADITHYANKG/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2639-separate-the-digits-in-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ADITHYANKG/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/ADITHYANKG/leetcode/tree/master/2886-faulty-keyboard) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/ADITHYANKG/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/ADITHYANKG/leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/ADITHYANKG/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2502-sort-the-people](https://github.com/ADITHYANKG/leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ADITHYANKG/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2547-odd-string-difference](https://github.com/ADITHYANKG/leetcode/tree/master/2547-odd-string-difference) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ADITHYANKG/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1970-sorting-the-sentence](https://github.com/ADITHYANKG/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ADITHYANKG/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/ADITHYANKG/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2502-sort-the-people](https://github.com/ADITHYANKG/leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ADITHYANKG/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ADITHYANKG/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ADITHYANKG/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1127-last-stone-weight](https://github.com/ADITHYANKG/leetcode/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/ADITHYANKG/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/ADITHYANKG/leetcode/tree/master/3226-minimum-number-game) |
 ## Counting Sort
 |  |
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ADITHYANKG/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ADITHYANKG/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/ADITHYANKG/leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/ADITHYANKG/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3227-find-missing-and-repeated-values](https://github.com/ADITHYANKG/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Bucket Sort
 |  |
