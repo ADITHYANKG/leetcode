@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ADITHYANKG/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/ADITHYANKG/leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ADITHYANKG/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/ADITHYANKG/leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/ADITHYANKG/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ADITHYANKG/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
