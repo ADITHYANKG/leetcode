@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/ADITHYANKG/leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/ADITHYANKG/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/ADITHYANKG/leetcode/tree/master/1651-shuffle-string) |
+| [1672-richest-customer-wealth](https://github.com/ADITHYANKG/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/ADITHYANKG/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ADITHYANKG/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ADITHYANKG/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1242-matrix-block-sum](https://github.com/ADITHYANKG/leetcode/tree/master/1242-matrix-block-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ADITHYANKG/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ADITHYANKG/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1672-richest-customer-wealth](https://github.com/ADITHYANKG/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/ADITHYANKG/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/ADITHYANKG/leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ADITHYANKG/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
