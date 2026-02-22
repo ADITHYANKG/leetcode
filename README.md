@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/ADITHYANKG/leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/ADITHYANKG/leetcode/tree/master/1217-relative-sort-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/ADITHYANKG/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1387-sort-integers-by-the-power-value](https://github.com/ADITHYANKG/leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ADITHYANKG/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ADITHYANKG/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ADITHYANKG/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1013-fibonacci-number](https://github.com/ADITHYANKG/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ADITHYANKG/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1387-sort-integers-by-the-power-value](https://github.com/ADITHYANKG/leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 ## Recursion
 |  |
 | ------- |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1013-fibonacci-number](https://github.com/ADITHYANKG/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ADITHYANKG/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1387-sort-integers-by-the-power-value](https://github.com/ADITHYANKG/leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 ## Database
 |  |
 | ------- |
